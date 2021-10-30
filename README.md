@@ -1,7 +1,8 @@
 ### Hi there 👋
 I am currently perusing bachelor’s in computer science from Comsats University Islamabad. I have worked on multiple freelancing websites and worked on many projects related to Desktop Applications using python and java language. 
 
-Email : mtayyabp@gmail.com 
+Email : mtayyabp@gmail.com
+
 LinkedIn : https://www.linkedin.com/in/tayyab-paracha-b6b09a18a/
 <!--
 **TayyabParacha/TayyabParacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
