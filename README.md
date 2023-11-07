@@ -1,9 +1,35 @@
-### Hi there 👋
-I am currently perusing bachelor’s in computer science from Comsats University Islamabad. I have worked on multiple freelancing websites and worked on many projects related to Desktop Applications using python and java language. 
+# Experienced Full-Stack Developer
 
-Email : mtayyabp@gmail.com
+📆 Over 4+ years of experience in web application development and maintenance.
 
-LinkedIn : https://www.linkedin.com/in/tayyab-paracha-b6b09a18a/
+🚀 Proficiency in:
+- MVC, TDD, BDD, OOP
+- Unit testing, SDLC
+- CI/CD pipelines, Agile development
+- SOLID principles
+- Microservices
+
+🛠️ Skilled in a variety of languages and technologies, including:
+- Python (Django, Flask, FastAPI)
+- ReactJS and React Native
+- AWS Services (EC2, S3 bucket, DynamoDB)
+- Agile tools (Jira, Monday.com, Git)
+- Testing tools (Selenium, Pytest)
+
+🚀 Led the development process for more than 5 projects, overseeing them from conception to deployment.
+
+🤝 Experienced in both individual and team-based roles, demonstrating leadership abilities in collaborations with large groups and startups.
+
+🌐 Exposure In:
+- Health Care 
+- Ecommerce
+- CRMS
+- Fintech 
+
+I'm passionate about crafting high-quality software and turning ideas into reality. Let's build something amazing together!
+
+Email: mtayyabp@gmail.com
+LinkedIn : https://www.linkedin.com/in/tayyab-paracha/
 <!--
 **TayyabParacha/TayyabParacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
