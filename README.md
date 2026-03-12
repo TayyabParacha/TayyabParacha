@@ -1,6 +1,6 @@
 # Experienced Full-Stack Developer
 
-📆 Over 4+ years of experience in web application development and maintenance.
+📆 Over 6+ years of experience in web application development and maintenance.
 
 🚀 Proficiency in:
 - MVC, TDD, BDD, OOP
@@ -28,5 +28,5 @@
 
 I'm passionate about crafting high-quality software and turning ideas into reality. Let's build something amazing together!
 
-- Email: mtayyabp@gmail.com
+- Email: mtayyab.paracha567@gmail.com
 - LinkedIn : https://www.linkedin.com/in/tayyab-paracha/
