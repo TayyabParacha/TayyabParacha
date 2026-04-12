@@ -1,6 +1,10 @@
 # Experienced Full-Stack Developer
 
-📆 Over 6+ years of experience in web application development and maintenance.
+📆 Senior Staff Software Engineer & Associate Team Lead with total of 8+ years of experience building scalable backend systems, microservices, and high-performance APIs. Strong expertise in distributed systems, cloud infrastructure (AWS), and data-intensive applications. 
+
+Proven ability to lead engineering teams, design system architecture, and deliver secure, reliable, productiongrade software. Experience working on transaction-heavy systems, real-time platforms, and developer-facing APIs, with a strong focus on performance, reliability, and scalability.
+
+
 
 🚀 Proficiency in:
 - MVC, TDD, BDD, OOP
@@ -28,5 +32,5 @@
 
 I'm passionate about crafting high-quality software and turning ideas into reality. Let's build something amazing together!
 
-- Email: mtayyab.paracha567@gmail.com
+- Email: mtayyab.paracha567@gmail.com / mtayyabp@gmail.com
 - LinkedIn : https://www.linkedin.com/in/tayyab-paracha/
