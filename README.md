@@ -32,5 +32,5 @@ Proven ability to lead engineering teams, design system architecture, and delive
 
 I'm passionate about crafting high-quality software and turning ideas into reality. Let's build something amazing together!
 
-- Email: mtayyab.paracha567@gmail.com / mtayyabp@gmail.com
+- Email: mtayyabp@gmail.com / tayyabparachaa@gmail.com
 - LinkedIn : https://www.linkedin.com/in/tayyab-paracha/
