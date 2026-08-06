@@ -1,6 +1,6 @@
 # Experienced Full-Stack Developer
 
-📆 Senior Staff Software Engineer & Associate Team Lead with total of 8+ years of experience building scalable backend systems, microservices, and high-performance APIs. Strong expertise in distributed systems, cloud infrastructure (AWS), and data-intensive applications. 
+📆 Senior Staff Software Engineer & Associate Team Lead with total of 5+ years of experience building scalable backend systems, microservices, and high-performance APIs. Strong expertise in distributed systems, cloud infrastructure (AWS), and data-intensive applications. 
 
 Proven ability to lead engineering teams, design system architecture, and deliver secure, reliable, productiongrade software. Experience working on transaction-heavy systems, real-time platforms, and developer-facing APIs, with a strong focus on performance, reliability, and scalability.
 
